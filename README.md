@@ -7,7 +7,7 @@
 
 ### 적용법
 
-1. [Releases](https://github.com/1cowoo/SunRise/releases) 페이지에서 최신 버전 모드(sources 없는거) 받고서 서버의 `mods/` 폴더에 옮기고 서버를 재시작 합니다.
+1. [Releases](https://github.com/1COWOO/SunRise/releases) 페이지에서 파일을 다운로드합니다. (파일명에 `-sources`가 없는 것을 받으세요.)
 2. 서버 실행 후 서버의 `config/sunrise/realtime.json`를 수정합니다.
 
 ### 모드의 기능
