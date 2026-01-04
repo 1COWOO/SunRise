@@ -8,7 +8,8 @@
 ### 적용법
 
 [Releases](https://github.com/1cowoo/SunRise/releases) 페이지에서 최신 버전 모드(sources 없는거) 받고서 서버의 `mods/` 폴더에 옮기고 서버를 재시작 합니다.
-### 모드의 작동
+
+### 모드의 기능
 
 
 ### 수정하고 싶은 분들이 참고해야 할 점
