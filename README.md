@@ -7,7 +7,7 @@
 
 ### 적용법
 
-[Releases](https://github.com/1cowoo/SunRise/releases) 페이지에서 최신 버전 모드(sources 없는거) 받고서 서버의 `mods/` 폴더에 옮기고 서버를 재시작 합니다.
+1. [Releases](https://github.com/1cowoo/SunRise/releases) 페이지에서 최신 버전 모드(sources 없는거) 받고서 서버의 `mods/` 폴더에 옮기고 서버를 재시작 합니다.
 
 ### 모드의 기능
 1. 폭죽을 왼손들기 할 시 "Happy New Year" 문구가 나오는 폭죽이 터집니다.
