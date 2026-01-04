@@ -1,7 +1,7 @@
 # SunRise
 무.려. AI를 활용해서 제작된 해돋이용 패브릭 모드
 
--사실 [각별님의 해돋이 플러그인](https://github.com/noonmaru/realtime)을 
+-사실 [각별님의 해돋이 플러그인](https://github.com/noonmaru/realtime)을 패브릭용으로 패치한거+몇몇 새로운 기능 넣은 모드
 ### 실행 환경
 
 * Java 21
