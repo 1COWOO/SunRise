@@ -22,7 +22,7 @@
 2. 코틀린 아니고 걍 자바언어 입니다.
 
 ### 📦빌드 방법
-```
+```bash
 git clone https://github.com/1COWOO/SunRise
 cd SunRise
 ./gradlew build
