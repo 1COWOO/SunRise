@@ -12,10 +12,10 @@
 1. [Releases](https://github.com/1COWOO/SunRise/releases) 페이지에서 파일을 다운로드합니다. (파일명에 `-sources`가 없는 것을 받으세요.)
 2. 서버 실행 후 서버의 `config/sunrise/realtime.json`를 수정합니다.
 
-  -**한국 표준시:** `"timezone": -9` (UTC+9 적용)
+-**한국 표준시:** `"timezone": -9` (UTC+9 적용)
 
 ### 모드의 기능
-1. 폭죽을 왼손들기 할 시 "Happy New Year" 문구가 나오는 폭죽이 터집니다.
+1. 폭죽을 왼손들기 할 시 **"Happy New Year"** 문구와 함께 화려한 폭죽이 터집니다.
 
 ### 수정하고 싶은 분들이 참고해야 할 점
 1. 코드는 첫 개발이라 수정이 쉽지않게 개떡같이 돼있을겁니다.(주석도 거의 안달려있음)
