@@ -21,12 +21,12 @@
 1. 코드는 첫 개발이라 수정이 쉽지않게 개떡같이 돼있을겁니다.(주석도 거의 안달려있음)
 2. 코틀린 아니고 걍 자바언어 입니다.
 
-### 빌드 방법
-```html
+### 📦빌드 방법
+```
 git clone https://github.com/1COWOO/SunRise
 cd SunRise
 ./gradlew build
-cd build/libs (자동 실행이 안될수있으니 따로 복사해두세요)
+# 생성된 파일은 build/libs 폴더에서 확인 가능합니다.
 ```
 ### ⚠️주의점 
 유튜브 같은 플랫폼에서 사용할시 이 깃허브 링크 혹은 [유튜브 채널](https://youtube.com/@KOWOO코우)을 영상 설명창에 써주세요.
